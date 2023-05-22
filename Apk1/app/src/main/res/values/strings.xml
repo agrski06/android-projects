@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Apk1</string>
+    <string name="name">Imię:</string>
+    <string name="lastName">Nazwisko:</string>
+    <string name="podaj_imie">Podaj imię</string>
+    <string name="podaj_nazwisko">Podaj nazwisko</string>
+    <string name="podaj_liczb_ocen_5_15">Podaj liczbę ocen (5-15)</string>
+    <string name="liczba_ocen">Liczba ocen:</string>
+    <string name="oceny">Oceny</string>
+    <string name="komunikatName">Podaj imię</string>
+    <string name="komunikatLastName">Podaj nazwisko</string>
+    <string name="komunikatGrade">Podaj liczbę ocen!</string>
+    <string name="Grade">Ocena\ </string>
+    <string name="finish">Koniec</string>
+    <string name="avg">Średnia:</string>
+</resources>
