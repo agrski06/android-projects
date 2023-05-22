@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Apk2</string>
+    <string name="clear_all_data">Clear all data</string>
+    <string name="add_phone_button">add phone button</string>
+    <string name="manufacturer">Manufacturer</string>
+    <string name="model">Model</string>
+    <string name="android_version">Android version</string>
+    <string name="web_site">Web site</string>
+    <string name="web_site_caps">WEB SITE</string>
+    <string name="cancel">CANCEL</string>
+    <string name="save">SAVE</string>
+</resources>
